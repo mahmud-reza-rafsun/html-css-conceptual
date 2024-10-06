@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: overline;
+    font-size: 80px;
+    text-align: center;
+}
+#heading-parent{
+    background-color: rgb(41, 34, 21);
+    height: 600px;
+    padding: 100px 0;
+    width: 1100px;
+    margin: 30px auto;
+}
